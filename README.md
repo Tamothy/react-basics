@@ -1,6 +1,6 @@
 # Player Score Game (React)
 
-#### Project using JavaScript React library 01.06.2016
+#### Project using JavaScript React library, 01.06.2016
 
 #### By Tam Nguyen
 
